@@ -31,7 +31,9 @@ h1 {
 
 @media all and (min-width: 431px) {
     h1 {
-        font-size: 45px;
+        position: relative;
+        bottom: 10px;
+        font-size: 55px;
     }
     }
 
